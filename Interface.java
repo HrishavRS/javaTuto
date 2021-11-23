@@ -18,7 +18,7 @@ class Pig implements Thisissample,Thisissample2{ //Methods of interface class ar
 		System.out.println("Ruuuuuuuuu!");
 	}
 	public void samplee(){
-		System.out.println("shit!");
+		System.out.println("shit!!");
 	}
 	public void quality(){
 		System.out.println("qualiii!!!");

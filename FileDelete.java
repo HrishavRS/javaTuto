@@ -10,7 +10,7 @@ public class FileDelete{
 		File myFile=new File(fileName+".txt");
 		if(myFile.exists()){
 			myFile.delete();
-			System.out.println("File Deleted Successfully!");
+			System.out.println("File Deleted Successfully!!!");
 		}else{
 			System.out.println("No file found of name "+fileName);
 		}
