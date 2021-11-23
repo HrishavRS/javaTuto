@@ -21,7 +21,7 @@ class ModifiableArray{
 	public static void main(String[] args){
 		ArrayList<String> sample1 = new ArrayList<String>();
 		sample1.add("Hrishav");
-		sample1.add("Has");
+		sample1.add("Hass");
 		sample1.add("Many");
 		sample1.add("Flaws");
 
