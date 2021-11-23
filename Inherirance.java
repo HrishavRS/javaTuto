@@ -2,7 +2,7 @@ class Car{
 	String brand ="Ford";
 	String edition="2020 summer";
 	public void honk(){
-		System.out.println("Smoooo!");
+		System.out.println("Smooossso!");
 	}
 }
 
