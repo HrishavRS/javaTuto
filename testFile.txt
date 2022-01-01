@@ -1,5 +1,10 @@
 THis cannot be here
+<<<<<<< HEAD
 This is second line 
 3rd one actually
 4th?
 5
+=======
+
+And this too
+>>>>>>> newBranch
